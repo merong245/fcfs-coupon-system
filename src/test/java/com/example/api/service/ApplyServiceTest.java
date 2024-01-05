@@ -67,6 +67,8 @@ class ApplyServiceTest {
         race condition에 의해서
         멀티 쓰레드 작업으로 어플리케이션 단에서 count가 99일 때, 여러 쓰레드에서 apply 메서드가 수행되어 count 조건을 넘어선다면
         모두 apply되버리는 문제가 발생하게 된다.
+
+        -> 레디스로 변경후 성공
          */
     }
 
