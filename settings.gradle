@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 rootProject.name = 'api'
+=======
+rootProject.name = 'fcfs-coupon-system'
+>>>>>>> 4156053 ([Feat] : add Module)
